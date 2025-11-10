@@ -1,0 +1,2 @@
+*.umap
+git[[:space:]]lfs[[:space:]]track[[:space:]]*.uasset filter=lfs diff=lfs merge=lfs -text
